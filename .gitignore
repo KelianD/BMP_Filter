@@ -1,1 +1,4 @@
-lena.bmp
+# Ignorer les extensions en .bmp
+*.bmp
+# Ignorer les fichiers de l'IDE
+.vscode/
